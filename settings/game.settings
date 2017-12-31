@@ -1,0 +1,7 @@
+Resolution:1920x1080
+Window_type:Default
+DoubleBufferingEnabled:True
+VSync:False
+MaxFPS:60
+DepthBuffer:24
+AllowMods:False
